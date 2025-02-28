@@ -1,2 +1,6 @@
 week2 
+<<<<<<< HEAD
  thuoc branch: week2 ma thoi
+=======
+ thuoc branch: week2 va main
+>>>>>>> main
